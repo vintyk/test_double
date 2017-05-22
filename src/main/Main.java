@@ -7,7 +7,5 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("HHHHHHHHHHHHHH");
         System.out.println("ниче не понимаю");
-        System.out.println("Pool-Request commeng!!!!");
-
     }
 }
